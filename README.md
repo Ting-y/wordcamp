@@ -1,4 +1,4 @@
-# wordcamp
+# WordCamp
 display upcoming WordCamps
 
 ####Recipes 
